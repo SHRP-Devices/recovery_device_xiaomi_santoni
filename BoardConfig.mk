@@ -124,3 +124,4 @@ SHRP_REC_TYPE := Universal
 SHRP_EXPRESS := true
 SHRP_OFFICIAL := true
 SHRP_DARK := true
+SHRP_NO_SAR_AUTOMOUNT := true
